@@ -24,7 +24,7 @@
 - 💼 I’m working as a mid-level front-end developer for building web applications. 
 - ❤️ In love with Svelte & Sveltekit sooooooo much 
 - ⚡ In my free time, I love to try to made a solution for challenge on [Frontend Mentor](https://www.frontendmentor.io/profile/NutchaponMake)
-- 📬 How to reach me : sending me a email <a href="mail:nutchapon.make@gmail.com">here</a>
+- 📬 How to reach me : sending me a [Email Here](mailto:nutchapon.make@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
