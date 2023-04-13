@@ -19,14 +19,14 @@
   <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="450"/>
 </div>
 
-### 👨‍💻 About Me :
+## 👨‍💻 About Me :
 I am a Mid-level Front-end Developer from :thailand: Thailand.
 - 💼 I’m currently working in a sales support department at Thai Beverage Public Co.Ltd;
 - ❤️ In love with Svelte & Sveltekit sooooooo much 
 - ⚡ In my free time, I love to try to made a solution for challenge on [Frontend Mentor](https://www.frontendmentor.io/profile/NutchaponMake)
 - 📬 How to reach me : sending me a [Email Here](mailto:nutchapon.make@gmail.com)
 
-## 🤡 Fun Facts
+### 🤡 Fun Facts
 <details>
   <summary>Why do programmers prefer dark mode?</summary>
   Because light attracts bugs 🐛.
