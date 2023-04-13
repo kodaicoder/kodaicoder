@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250"/>
 </div>
 <div id="badges"  align="center">
  <a href="https://www.facebook.com/New1.Life">
@@ -12,7 +12,9 @@
 <div id="counter"  align="center">
   <img src="https://komarev.com/ghpvc/?username=kodaicoder&style=flat-square&color=blue" alt="profile view counter"/>
 </div>
-<h1> Hi there 👋 </h1>
+<div id="hi"  align="center">
+  <h1> Hi there 👋 </h1>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
