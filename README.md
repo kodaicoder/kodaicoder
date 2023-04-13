@@ -20,7 +20,7 @@
 </div>
 
 ## 👨‍💻 About Me :
-I am a Mid-level Front-end Developer from :thailand: Thailand.
+I am a Mid-level Front-end Developer 💻 from Thailand .
 - 💼 I’m currently working in a sales support department at Thai Beverage Public Co.Ltd;
 - ❤️ In love with Svelte & Sveltekit sooooooo much 
 - ⚡ In my free time, I love to try to made a solution for challenge on [Frontend Mentor](https://www.frontendmentor.io/profile/NutchaponMake)
