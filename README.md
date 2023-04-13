@@ -26,7 +26,9 @@ I am a Mid-level Front-end Developer from :thailand: Thailand.
 - ⚡ In my free time, I love to try to made a solution for challenge on [Frontend Mentor](https://www.frontendmentor.io/profile/NutchaponMake)
 - 📬 How to reach me : sending me a [Email Here](mailto:nutchapon.make@gmail.com)
 
-### 🤡 Fun Facts
+--
+
+#### 🤡 Fun Facts
 <details>
   <summary>Why do programmers prefer dark mode?</summary>
   Because light attracts bugs 🐛.
