@@ -19,6 +19,12 @@
   <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="450"/>
 </div>
 
+### 👨‍💻 About Me :
+
+- 💼 I’m working as a mid-level front-end developer for building web applications. 
+- ❤️ In love with Svelte & Sveltekit sooooooo much 
+- ⚡ In my free time, I love to try to made a solution for challenge on [Frontend Mentor](https://www.frontendmentor.io/profile/NutchaponMake)
+- 📬 How to reach me : sending me a email <a href="mail:nutchapon.make@gmail.com">here</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
